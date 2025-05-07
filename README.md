@@ -1,16 +1,21 @@
-## Hi there 👋
+<h3 align="center">Welcome to My Page</h3>
 
-<!--
-**YasinRezayeeManesh/YasinRezayeeManesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+My_info = {
+  "Name": "Yasin Rezayee Manesh"
+  "Age": "20"
+  "Job": "Back-end Developer"
+  "Language": "Python"
+  "Skills": "Django, DRF, Html, Css, Git, GitHub"
+  "Experience": "1 year"
+}
+```
+<div align=center>
+  <img src="https://img.icons8.com/?size=60&id=Rc0Xn5AtE8kX&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=20909&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=3BTBsJs5myRy&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=IuuVVwsdTi2v&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000"/>
+</div>
