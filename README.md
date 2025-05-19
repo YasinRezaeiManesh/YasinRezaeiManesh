@@ -17,7 +17,7 @@ My_info = {
   "Age": "20"
   "Job": "Back-end Developer"
   "Language": "Python"
-  "Skills": "Django, DRF, Html, Css, Git, GitHub"
+  "Skills": "Django, DRF, Html, Css, Git, GitHub, Ajax"
   "Experience": "1 year"
 }
 ```
