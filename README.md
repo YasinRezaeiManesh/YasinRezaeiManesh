@@ -25,7 +25,7 @@ My_info = {
 
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasinRezayeeManesh&theme=react-dark" width="450px"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=YasinRezayeeManesh&show_icons=true&theme=dark" width="370px" align="right"/> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinRezayeeManesh&show_icons=true&theme=dark" width="370px" align="right"/>
 </div>
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasinRezayeeManesh&show_icons=true&theme=dark"/>
