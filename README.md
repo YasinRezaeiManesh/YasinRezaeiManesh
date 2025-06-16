@@ -13,13 +13,13 @@
 
 ```python
 My_info = {
-  "Name": "Yasin Rezayee Manesh"
-  "Age": "20"
-  "Job": "Back-end Developer"
-  "Language": "Python"
-  "Skills": "Django, Html, Css, Git, GitHub"
-  "Libraries": "Django-rest_framework, Pandas, Ajax"
-  "DataBase": "SQLite3"
+  "Name": "Yasin Rezayee Manesh",
+  "Age": "20",
+  "Job": "Back-end Developer",
+  "Language": "Python",
+  "Skills": "Django, Html, Css, Git, GitHub",
+  "Libraries": "Django-rest_framework, Pandas, Ajax",
+  "DataBase": "SQLite3",
   "Experience": "1 year"
 }
 ```
