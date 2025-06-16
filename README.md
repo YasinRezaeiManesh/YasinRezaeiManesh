@@ -17,8 +17,9 @@ My_info = {
   "Age": "20",
   "Job": "Back-end Developer",
   "Language": "Python",
-  "Skills": "Django, Html, Css, Git, GitHub",
+  "FrameWork": "Django",
   "Libraries": "Django-rest_framework, Pandas, Ajax",
+  "Skills": "Html, Css, Git, GitHub, Engilsh",
   "DataBase": "SQLite3",
   "Experience": "1 year"
 }
