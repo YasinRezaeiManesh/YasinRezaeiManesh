@@ -20,7 +20,7 @@ My_info = {
   "FrameWork": "Django",
   "Libraries": "Django-rest_framework, Pandas, Telebot, Ajax",
   "Skills": "Html, Css, Git, GitHub, Engilsh",
-  "DataBase": "SQLite3",
+  "DataBase": "PostgreSQL, SQLite3",
   "Experience": "1 year"
 }
 ```
