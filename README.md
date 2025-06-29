@@ -8,6 +8,7 @@
   <img src="https://img.icons8.com/?size=60&id=Rc0Xn5AtE8kX&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=60&id=IuuVVwsdTi2v&format=png&color=000000"/>
   <img src="https://img.icons8.com/?size=60&id=20906&format=png&color=000000"/>
+  <img src="https://img.icons8.com/?size=65&id=LwQEs9KnDgIo&format=png&color=000000"/>
 </div>
 <br>
 
