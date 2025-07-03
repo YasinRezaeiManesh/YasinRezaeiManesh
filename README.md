@@ -21,7 +21,7 @@ My_info = {
   "Job": "Back-end Developer",
   "Language": "Python",
   "FrameWork": "Django",
-  "Libraries": "Django-rest_framework, Pandas, Telebot, Ajax",
+  "Libraries": "Django-rest_framework, Docker, Pandas, Telebot, Ajax",
   "Skills": "Html, Css, Git, GitHub, Engilsh",
   "DataBase": "PostgreSQL, SQLite3",
   "Experience": "1 year"
